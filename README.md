@@ -6,5 +6,10 @@ The first method involves training a model using 2D images. By providing a datas
 images captured from smart phone 
 The second method entails generating 3D images from the 2D images and training a deep
 learning model using these 3D representations. 
-# First method 
+# First method : 2D image
+the 2D image method, as the name implies, our input consisted of 2D images. The first
+step involved augmenting these images to improve the overall dataset. Then, we performed
+object detection and segmentation using two different methods to generate the input for the
+ResNet model. This ResNet model played a crucial role in predicting crown heights based on
+the input generated from the previous steps.
 # Second method
