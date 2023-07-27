@@ -12,4 +12,6 @@ step involved augmenting these images to improve the overall dataset. Then, we p
 object detection and segmentation using two different methods to generate the input for the
 ResNet model. This ResNet model played a crucial role in predicting crown heights based on
 the input generated from the previous steps.
+![alt text](https://github.com/ykarray/olive-tree-crown-heigth-detection/blob/main/2dmethod.png)
 # Second method
+![alt text](https://github.com/ykarray/olive-tree-crown-heigth-detection/blob/main/3Dimagemethod.png)
